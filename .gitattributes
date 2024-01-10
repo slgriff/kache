@@ -1,0 +1,13 @@
+.gitattributes text
+.gitignore text
+
+*.kt text
+*.kts text
+*.yml text
+
+*.bat text eol=crlf
+
+LICENSE text
+README text
+
+*.jar binary

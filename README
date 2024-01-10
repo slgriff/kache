@@ -1,0 +1,4 @@
+# Kache
+
+* Thread-safe cache
+* Independent of system clock
