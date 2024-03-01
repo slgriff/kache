@@ -15,7 +15,7 @@ dependencies {
     implementation("io.github.oshai:kotlin-logging-jvm:5.1.0")
     implementation("org.slf4j:slf4j-api:2.0.7")
     implementation("ch.qos.logback:logback-classic:1.4.14")
-    implementation("ch.qos.logback:logback-core:1.4.14")
+    implementation("ch.qos.logback:logback-core:1.5.1")
     testImplementation(kotlin("test"))
 }
 
